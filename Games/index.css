@@ -1,0 +1,28 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background:url("./img/responsive_big_webp_LpBxx04k7W4kOgcxypJSnOcGNxsi4EteP8epWdChRbo.jfif");
+}
+.canva{
+    opacity:0.9;
+    display: flex;
+    margin: auto;
+    margin-top:50px;
+}
+
+div{
+    width:800px;
+    margin:auto;
+    margin-top:0px;
+    height:40px;
+    margin-bottom:0px;
+    display: block;
+    color: white;
+}
+div h1{
+   
+    float: left;
+}
+div .h2{
+    float: right;
+}
